@@ -1,6 +1,6 @@
 require('jest');
 const { TestScheduler } = require('jest');
-const timeInWords = require('../timeInWords');
+const timeInWords = require('../scripts/timeInWords');
 
 describe('first' , ()=>{
     test('a', ()=>{

@@ -1,4 +1,4 @@
-const timeInWords = require('./timeInWords');
+const timeInWords = require('./scripts/timeInWords');
 
 
 if(process.argv.length < 4){
